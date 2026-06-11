@@ -1,0 +1,10 @@
+vectors:
+  normal:
+    firstPersonLeftRotation: {x: -0.37815127, y: -7.9411764, z: 1.8907562}
+    firstPersonLeftTranslation: {x: 0.071428575, y: 0.15546219, z: 0.1092437}
+    firstPersonRightScale: {x: -4.894958, y: -4.390756, z: -4.327731}
+    firstPersonRightTranslation: {x: -0.029411765, y: 0.16806723, z: 0.0}
+    firstPersonRightRotation: {x: 2.2689075, y: -5.2941175, z: 7.184874}
+    firstPersonLeftScale: {x: -5.0, y: -4.579832, z: -5.0}
+connectedServers: [mc.mineberry.org]
+clientId: 89d23559-66d7-47fe-a92c-4ea40e6332f8
